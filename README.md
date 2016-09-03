@@ -6,7 +6,7 @@ In order to make things clear, it also provides some examples and comments. Hope
 
 ### Contents:
 Lesson_1-4: Python Syntax, including comment, string, print, if statement, function methods
-\newline
+
 Lesson_5: Lists & Dictionaries
-\newline
+
 Lesson_6: Student Becomes the Teacher exercise
