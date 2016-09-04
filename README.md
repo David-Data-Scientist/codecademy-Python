@@ -10,3 +10,5 @@ Lesson_1-4: Python Syntax, including comment, string, print, if statement, funct
 Lesson_5: Lists & Dictionaries
 
 Lesson_6: Student Becomes the Teacher exercise
+
+Lesson_7: Lists and Functions
